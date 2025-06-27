@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976814040122",
+    "project_id": "kasirwarung-18392",
+    "storage_bucket": "kasirwarung-18392.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976814040122:android:f06d901266c09b3304c103",
+        "android_client_info": {
+          "package_name": "com.example.kasirwarung"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQA7KhH2mV76zomIec8Uas4Lqo_srDLQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
